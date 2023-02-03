@@ -1,1 +1,3 @@
-No Santiago
+Se tendrán en cuenta 3 carpetas
+1). RMI estructurado por el profesor Leni
+2). RMI para el servidor sencillo aunque me esta generando algunos errores
